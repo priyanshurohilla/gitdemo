@@ -10,6 +10,8 @@ class HelloWorld {
         System.out.println("Hello, World! from Vipul");
 		
 		System.out.println("Hi, Avinash here");
+	    
+	    System.out.println("");
 		
  
 
